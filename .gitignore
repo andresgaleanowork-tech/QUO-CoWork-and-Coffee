@@ -1,0 +1,10 @@
+# Office/temp files
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Local deal drafts that may contain personal data (move to secure storage before commit)
+Deals/*/0*_personal/**
+Deals/**/*nominas*
+Deals/**/*contrato*
