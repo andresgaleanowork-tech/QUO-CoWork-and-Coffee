@@ -1,10 +1,15 @@
-# Office/temp files
+# Office / temp files
 ~$*
 *.tmp
 .DS_Store
 Thumbs.db
 
-# Local deal drafts that may contain personal data (move to secure storage before commit)
-Deals/*/0*_personal/**
-Deals/**/*nominas*
-Deals/**/*contrato*
+# Contenido del Anexo Confidencial: NUNCA versionar cifras ni condiciones
+*anexo-confidencial*
+*anexo-econ*
+*经济*
+
+# Expedientes de deal con datos personales/negociación sensible
+**/Deals/**/*nominas*
+**/Deals/**/*nota-simple*
+**/Deals/**/*condiciones*

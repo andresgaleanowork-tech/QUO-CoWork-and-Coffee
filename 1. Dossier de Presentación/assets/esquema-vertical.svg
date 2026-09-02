@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 980" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <style>
+      .floor { fill: #fdfbf7; stroke: #2b2b2b; stroke-width: 2; }
+      .floorActive { fill: #f3ece1; stroke: #2b2b2b; stroke-width: 2; }
+      .label { fill: #2b2b2b; font-size: 26px; font-weight: bold; }
+      .sub { fill: #6b6257; font-size: 17px; }
+      .tiny { fill: #9a8f80; font-size: 13px; font-style: italic; }
+      .side { fill: #2b2b2b; font-size: 18px; }
+      .sideSub { fill: #6b6257; font-size: 14px; }
+      .accent { fill: #c1622f; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="880" height="980" fill="#f6f2eb"/>
+  <text x="440" y="52" text-anchor="middle" font-size="34" font-weight="bold" fill="#2b2b2b">QUO · SAGUNT — el mapa vertical</text>
+  <text x="440" y="80" text-anchor="middle" class="tiny">dossier §05 · programa de las cuatro plantas</text>
+
+  <!-- Terraza -->
+  <rect class="floorActive" x="150" y="120" width="380" height="90" rx="8"/>
+  <text x="175" y="160" class="label">LA TERRAZA VISTAS</text>
+  <text x="175" y="188" class="sub">mirador al Castillo · afterwork · atardeceres de yoga</text>
+  <text x="60" y="172" text-anchor="end" class="side">Cubierta</text>
+
+  <!-- Planta 3 -->
+  <rect class="floor" x="150" y="235" width="380" height="110" rx="6"/>
+  <text x="175" y="277" class="label">PLANTA 3 · STUDIO</text>
+  <text x="175" y="303" class="sub">yoga y disciplinas de calma · peluquería y barbería</text>
+  <text x="175" y="327" class="tiny">profesionales residentes · reserva y calendario propio</text>
+  <text x="60" y="297" text-anchor="end" class="side">Cuidado</text>
+
+  <!-- Planta 2 -->
+  <rect class="floor" x="150" y="370" width="380" height="110" rx="6"/>
+  <text x="175" y="412" class="label">PLANTA 2 · COMÚN DE ESTUDIO</text>
+  <text x="175" y="438" class="sub">UNED · FP · oposiciones · tarde-noche</text>
+  <text x="175" y="462" class="tiny">Corredor de Talento: mentorías, Muro, reverse recruiting</text>
+  <text x="60" y="432" text-anchor="end" class="side">Formación</text>
+
+  <!-- Planta 1 -->
+  <rect class="floorActive" x="150" y="505" width="380" height="110" rx="6"/>
+  <text x="175" y="547" class="label">PLANTA 1 · COMÚN DE TRABAJO</text>
+  <text x="175" y="573" class="sub">coworking corporativo · asientos de empresa · salas</text>
+  <text x="175" y="597" class="tiny">el silencio es mobiliario</text>
+  <text x="60" y="567" text-anchor="end" class="side">Trabajo</text>
+
+  <!-- Planta 0 -->
+  <rect class="floorActive" x="150" y="640" width="380" height="110" rx="6"/>
+  <text x="175" y="682" class="label">PLANTA 0 · ANEXO</text>
+  <text x="175" y="708" class="sub">la cafetería: el salón de las cuatro plantas</text>
+  <text x="175" y="732" class="tiny">escenario cívico · abierto a la calle, sin membresía</text>
+  <text x="60" y="702" text-anchor="end" class="side">Umbral</text>
+
+  <!-- Calle -->
+  <rect x="60" y="775" width="560" height="46" fill="#e4dccd" rx="4"/>
+  <text x="340" y="804" text-anchor="middle" class="sub">la calle de Sagunto — Casco Antiguo, camino del Castillo y el Teatro Romano</text>
+
+  <!-- ascensor: la línea del hub -->
+  <line x1="340" y1="120" x2="340" y2="775" stroke="#c1622f" stroke-width="3" stroke-dasharray="7 6"/>
+  <circle class="accent" cx="340" cy="165" r="7"/>
+  <circle class="accent" cx="340" cy="290" r="7"/>
+  <circle class="accent" cx="340" cy="425" r="7"/>
+  <circle class="accent" cx="340" cy="560" r="7"/>
+  <circle class="accent" cx="340" cy="695" r="7"/>
+
+  <!-- Leyenda -->
+  <rect x="640" y="120" width="190" height="665" fill="none"/>
+  <text x="650" y="150" class="label" font-size="20">La regla</text>
+  <text x="650" y="185" class="sideSub">Ninguna planta se</text>
+  <text x="650" y="207" class="sideSub">sostiene sola: todas</text>
+  <text x="650" y="229" class="sideSub">se sostienen por</text>
+  <text x="650" y="251" class="sideSub">la escalera.</text>
+
+  <text x="650" y="310" class="label" font-size="20">El producto</text>
+  <text x="650" y="345" class="sideSub">no es un espacio:</text>
+  <text x="650" y="367" class="sideSub">es el tránsito —</text>
+  <text x="650" y="389" class="sideSub">empresa, estudio,</text>
+  <text x="650" y="411" class="sideSub">calma y café en</text>
+  <text x="650" y="433" class="sideSub">un mismo día.</text>
+
+  <text x="650" y="492" class="label" font-size="20">Los ritos</text>
+  <text x="650" y="527" class="sideSub">primer martes ·</text>
+  <text x="650" y="549" class="sideSub">Muro · casa abierta</text>
+  <text x="650" y="571" class="sideSub">· noche del común</text>
+
+  <text x="650" y="630" class="label" font-size="20">Activación</text>
+  <text x="650" y="665" class="sideSub">por capas: cada</text>
+  <text x="650" y="687" class="sideSub">planta abre cuando</text>
+  <text x="650" y="709" class="sideSub">su criterio se cumple</text>
+
+  <text x="440" y="905" text-anchor="middle" class="label" fill="#c1622f">de lo público a lo íntimo · de la ciudad al tejado</text>
+  <text x="440" y="935" text-anchor="middle" class="tiny">esquema de intención (no arquitectónico) · paleta provisional pendiente del manual de marca · QUO status quo: mirar el estado actual de las cosas y decidir el siguiente</text>
+</svg>
