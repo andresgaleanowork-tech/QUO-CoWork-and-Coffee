@@ -20,6 +20,14 @@
 
 Lectura completa: ~35 minutos. Lectura del Comprador apurado: 01 + 03 + 04 (8 minutos).
 
+## Formatos de entrega (no son documentos nuevos: son el mismo mensaje en su tamaño de uso)
+
+| Formato | Cuándo | Dónde |
+|---|---|---|
+| **[One-pager](assets/one-pager.md)** — el dossier en una cara | Siempre que se deja algo en una mesa | `assets/one-pager.md` |
+| **Plan de reportaje del edificio** (checklist fotográfico para las dos visitas) | Antes de la visita de cortesía | `assets/foto-edificio/README.md` |
+| **Versió en valencià** (01 y 03 como pilotos de traducción; el resto, al aprobarse el tono CA) | Cuando el interlocutor sea la propiedad de Sagunt | `versions-CA/` |
+
 ## Glosario de uso obligatorio
 
 El vocabulario del proyecto es único y se repite idéntico en todos los documentos. Quien redacte material nuevo (web, prensa, presentaciones) usa estos términos y solo estos.

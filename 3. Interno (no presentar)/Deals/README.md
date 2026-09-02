@@ -1,19 +1,18 @@
-# Deals — data room por traspaso candidato
+# Deals — expediente por oportunidad
 
-Un directorio por local evaluado. La estructura mínima y los bloques de documentación están definidos en
-`../1. Plan de Negocio Unificado/DueDiligence_Traspaso_v1.0.md`.
+> Un directorio por edificio/local en evaluación. El expediente NO sigue la vieja numeración de "traspaso de negocio" (bloques A–F de `Herramientas/DueDiligence_Traspaso_v1.0.md` siguen sirviendo para licencias y personal, pero el objeto central ahora es **el edificio y su propiedad**).
+
+## Estructura estándar (ver `01-Muebles-Sagunto/` como modelo)
 
 ```
-NN-<nombre-local>/
-  00_term-sheet-vX.md          # términos (modelo: §8.2 del plan maestro)
-  01-alquiler/                 # bloque A
-  02-licencias/                # bloque B
-  03-numeros/                  # bloque C (CSV del TPV, liquidaciones, suministros)
-  04-personal/                 # bloque D
-  05-marca-digital/            # bloque E
-  06-actas-reunion/            # notas fechadas con vendedor/casero
-  99-notas.md                  # semáforo por bloque: verde/ámbar/rojo + fecha
+NN-<nombre>/
+  00_expedificio.md              # qué hay que averiguar (registro, urbanismo, físico, familia)
+  01_guion-pitch-propiedad.md    # cómo se abre la conversación
+  02_mapa-de-aliados.md          # ecosistema con estado y pedidos
+  03_lista-30-empresas.md        # panel de validación de la hipótesis
+  04_guion-entrevista-empresas.md# metodología de las 30 conversaciones
+  actas/                         # una por conversación, <24 h, con semáforo
+  firmado/                       # NDA y cualquier papel firmado (fuera del repo si lleva cifras)
 ```
 
-**Regla de estado:** un deal solo pasa de `explorando` a `LOI` cuando los bloques A, B, C y D tienen evidencia
-documental (no verbal). Un bloque rojo = deal muerto, no deal "a ver si mejora".
+**Reglas:** estado del deal = señal del último acta. Nada se promete fuera de Fase 0 hasta el semáforo de `03`. Cifras y condiciones: solo en el Anexo Confidencial (fuera del repositorio, siempre).
