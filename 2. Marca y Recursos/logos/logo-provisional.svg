@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" font-family="'Montserrat','Helvetica Neue',Arial,sans-serif">
+  <!-- RECONSTRUCCIÓN PROVISIONAL para documentos internos — el logotipo definitivo vive en el manual rasterizado (ver logos/README.md). No usar con el Comprador. -->
+  <rect width="720" height="300" fill="#ffe8c9"/>
+  <!-- Acento cuadrado separado (la "chispa" de la Q) -->
+  <rect x="64" y="70" width="34" height="34" fill="#1b2340"/>
+  <!-- Q -->
+  <g fill="none" stroke="#1b2340" stroke-width="46">
+    <circle cx="170" cy="168" r="80"/>
+  </g>
+  <!-- cola de la Q -->
+  <line x1="216" y1="214" x2="286" y2="268" stroke="#1b2340" stroke-width="46" stroke-linecap="round"/>
+  <!-- U -->
+  <path d="M330,88 V190 a72,72 0 0 0 144,0 V88" fill="none" stroke="#1b2340" stroke-width="46" stroke-linecap="round"/>
+  <!-- O -->
+  <circle cx="596" cy="168" r="80" fill="none" stroke="#1b2340" stroke-width="46"/>
+  <!-- Tagline -->
+  <text x="360" y="292" text-anchor="middle" font-size="21" letter-spacing="9" fill="#a6681e" font-weight="300">DISFRUTA EL MOMENTO</text>
+</svg>

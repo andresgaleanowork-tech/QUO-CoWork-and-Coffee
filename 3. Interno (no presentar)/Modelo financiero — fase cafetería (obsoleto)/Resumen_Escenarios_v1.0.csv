@@ -1,0 +1,15 @@
+Escenario,Anio,Ingresos_EUR,EBITDA_antes_owner_EUR,pct_margen_EBITDA,Flujo_de_caja_EUR,Caja_al_cierre_EUR,Lectura
+CONSERVADOR,1,101361,14622,14.4 pct,-519,10480,Casi break-even (-0,5k en el anio): el colchon aguanta pero no crece; plan de austeridad pre-aprobado
+CONSERVADOR,2,109681,19805,18.1 pct,3376,13857,+3,4k: se paga al vendedor sin holgura; cero inversion y vigilancia si cae bajo 8,5k/mes
+CONSERVADOR,3,114449,20912,18.3 pct,14248,28106,+14k: estabiliza, pero el techo del proyecto queda en ~9,5k/mes; decidir duplicar o cerrar fase
+BASE,1,131268,21812,16.6 pct,5501,16500,Caja plana en Y1 por el peaje de la deuda. Meta: no bajar de 9k/mes en promedio
+BASE,2,166978,46983,28.1 pct,26477,42978,El vendedor se cobra y el flujo gira: ~+2k/mes
+BASE,3,193186,64250,33.3 pct,51083,94062,~+5k/mes pre-owner; abre la puerta a Fase 2
+OPTIMISTA,1,149246,17112,11.5 pct,1018,12017,Exige contratar en M7 (+1 FTE); valida el modelo
+OPTIMISTA,2,199763,49240,24.6 pct,28396,40415,~+4k/mes
+OPTIMISTA,3,226562,64859,28.6 pct,51603,92018,Preparar 2a ubicacion o piloto Fase 2 (wellness share)
+
+PUNTO DE EQUILIBRIO (BASE),EUR/mes,"tickets/dia (ticket 5,90)"
+Solo costes fijos,8.347,~51
++ servicio de deuda (Y1),11.269,~69
++ salario mercado fundador (2.500),14.670,~90
