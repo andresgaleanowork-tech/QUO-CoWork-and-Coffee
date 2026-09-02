@@ -26,7 +26,8 @@ Lectura completa: ~35 minutos. Lectura del Comprador apurado: 01 + 03 + 04 (8 mi
 |---|---|---|
 | **[One-pager](assets/one-pager.md)** — el dossier en una cara | Siempre que se deja algo en una mesa | `assets/one-pager.md` |
 | **Plan de reportaje del edificio** (checklist fotográfico para las dos visitas) | Antes de la visita de cortesía | `assets/foto-edificio/README.md` |
-| **Versió en valencià** (01 y 03 como pilotos de traducción; el resto, al aprobarse el tono CA) | Cuando el interlocutor sea la propiedad de Sagunt | `versions-CA/` |
+| **Moodboard por planta** (5 imágenes de intención — etiquetadas siempre «intención, no promesa») | En conversación sobre el §05 | `assets/moodboard/` |
+| **Versió en valencià** (dossier completo CA en esborrany — 01→08 + one-pager; pendiente de polida nativa) | Cuando el interlocutor sea la propiedad de Sagunt | `versions-CA/` |
 
 ## Glosario de uso obligatorio
 

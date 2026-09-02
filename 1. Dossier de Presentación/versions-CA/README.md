@@ -5,12 +5,11 @@ Perquè el Comprador és una casa comercial de Sagunt, el dossier es presenta ta
 
 | Doc | Estat |
 |---|---|
-| `01_Resum-executiu.md` | 🟨 borrador pendent de polida nativa (traducció de 01 v1.0) |
-| `03_Per-que-ara.md` | 🟨 idem (traducció de 03 v1.0) |
-| `02`, `04`, `05`, `06`, `07`, `08`, `00-guia` | ⬜ pendents de traduir — la seua traducció s'obri quan 01 i 03 siguen aprovades, per fixar abans el to |
+| `01_Resum-executiu.md` · `02_El-projecte-QUO.md` · `03_Per-que-ara.md` · `04_El-loc…` · `05_El-programa…` · `06_Les-persones…` · `07_Lexperiencia…` · `08_Aliances…` · `one-pager.md` | 🟨 traduccions completes pendent de **polida nativa** (bloquejar el to abans d'entregar res en CA) |
+| `00-guia` i `09_anex-de-fuentes` | ⬜ es tradueixen després de l'aprovació — la guia és meta-text i s'ha d'escriure en l'idioma aprovat |
 
 ## Glosari CA (els noms de casa no es toquen)
 
 membre (mai "client") · **seient corporatiu** · **ANEXO** (el nom propi es manté en castellà, és de marca) · **Comú de Treball** / **Comú d'Estudi** · **Studio** (es manté) · **Terrassa Vistes** · **Corredor del Talent** · **professional resident** · **activació** · **casa oberta** · **Nit del Comú** · hub (es manté, en minúscula).
 
-Prohibit en CA, com en ES, qualsevol contingut econòmic: xifres, condicions, terminis de pagament. Tot això viu a l'Annex Confidencial, que no es traduïx ni existix ací.
+Prohibit en CA, com en ES, qualsevol contingut econòmic: xifres, condicions i terminis que les incloguen. Tot això viu a l'Annex Confidencial, que no es traduïx ni existix ací.

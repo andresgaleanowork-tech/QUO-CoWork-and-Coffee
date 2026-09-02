@@ -17,11 +17,11 @@
 
 Los SHA-256 siguientes fijan el contenido exacto del dossier el día de su cierre. Cualquier documento presentado a un tercero después puede contrastarse contra esta tabla (si alguien dice que "eso ya estaba en otra idea", aquí están las huellas y la fecha de git). *(generados el 02/09/2026, commit `7a3a04d…` de la rama de sesión):*_
 
-> Fijadas el **02/09/2026**, commit de la rama de sesión. Huellas de integridad de la v1.0 completa (incluidos formatos de entrega y pilotos en valencià):
+> Fijadas el **02/09/2026** (v1.0 + adendas del mismo día: formatos de entrega, moodboard, CA, anexo de fuentes), rama de sesión git. Huellas de integridad (26 archivos):
 
 | Archivo | SHA-256 |
 |---|---|
-| `00_Guia-de-lectura-y-glosario.md` | `2a91fdddf4f08b19…` |
+| `00_Guia-de-lectura-y-glosario.md` | `ecc5fe68e4157140…` |
 | `01_Resumen-ejecutivo.md` | `6aaa4f9a205a7aaf…` |
 | `02_El-proyecto-QUO.md` | `5c1556f3db583c70…` |
 | `03_Por-que-ahora_el-momento-de-Sagunto.md` | `62d911888fe6b5eb…` |
@@ -30,11 +30,23 @@ Los SHA-256 siguientes fijan el contenido exacto del dossier el día de su cierr
 | `06_Las-personas_los-miembros.md` | `79ec112cf6a23739…` |
 | `07_La-experiencia_los-servicios-y-los-ritos.md` | `20ad2bd8d48dc97a…` |
 | `08_Alianzas_fases-y-criterios-de-exito.md` | `38fcce85215f86f3…` |
+| `09_Anexo-de-fuentes.md` | `bb051ed4946dc489…` |
+| `assets/esquema-vertical.svg` | `84626cb19e25b281…` |
+| `assets/moodboard/01-anexo-cafeteria.jpg` | `7e90e47c6b66300e…` |
+| `assets/moodboard/02-comun-de-trabajo.jpg` | `67372b7d6343e234…` |
+| `assets/moodboard/03-comun-de-estudio.jpg` | `c7dbe3fe9fa26c0e…` |
+| `assets/moodboard/04-studio-bienestar.jpg` | `fa696c2bdd4aa528…` |
+| `assets/moodboard/05-terraza-vistas.jpg` | `047dba7f524f7186…` |
 | `assets/one-pager.md` | `799e45dfaa5deccd…` |
-| `assets/esquema-vertical.svg` | `4748736c3fd5bfe6…` |
 | `versions-CA/01_Resum-executiu.md` | `5e74929c7988fdca…` |
+| `versions-CA/02_El-projecte-QUO.md` | `cd2150be1759d28d…` |
 | `versions-CA/03_Per-que-ara.md` | `eb082b44d3e0321b…` |
-| `versions-CA/README.md` | `3e9cd82c48f645fb…` |
+| `versions-CA/04_El-loc_edifici-Muebles-Sagunt.md` | `edba6c8201d44b43…` |
+| `versions-CA/05_El-programa_les-quatre-plantes.md` | `16dcdb481c2d62c9…` |
+| `versions-CA/06_Les-persones_els-membres.md` | `c25f733593fd0dbf…` |
+| `versions-CA/07_Lexperiencia_els-serveis-i-els-rites.md` | `ecd13ae8be07cb48…` |
+| `versions-CA/08_Aliances_fases-i-criteris-de-xit.md` | `9f90acb6fb90f4eb…` |
+| `versions-CA/one-pager.md` | `bf66b6becde59a1e…` |
 
 ## Reglas de entrega (cómo se enseña sin regalarse)
 

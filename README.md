@@ -6,15 +6,18 @@
 
 ```
 1. Dossier de Presentación/      → EL ÚNICO CONTENIDO QUE SE ENSEÑA.
-   Nueve documentos, vocabulario unificado (glosario en 00),
-   cero contenido económico — el dinero vive en Anexo Confidencial
-   aparte, que aquí NO se redacta ni se almacena.
-   2. Marca y Recursos/           → manual de marca, logos, material visual.
-   3. Interno (no presentar)/     → herramientas de negociación, due diligence,
-                                     expedientes de deal, modelos desactualizados.
-                                     Nada de esta carpeta sale del círculo fundador.
-   4. Archivo/                    → versiones superadas del proyecto (se conservan
-                                     como registro de decisión, no como referencia).
+   Nueve documentos + guía, anexo de fuentes, one-pager, moodboard por planta,
+   versió completa en valencià (esborrany) y assets.
+   Cero contenido económico — el dinero vive en Anexo Confidencial
+   aparte (fuera de este repo, pliego en `3. Interno/operacion/`).
+2. Marca y Recursos/             → identidad escrita, tono de voz, sistema visual
+   (extraído del manual), naming, protección OEPM, logos, aplicaciones.
+3. Interno (no presentar)/       → expediente Muebles Sagunto (guion de pitch,
+   mapa de aliados, panel de 30 empresas, medidor de Fase 0, actas), legal
+   (NDA, PI con registro de integridad, bases de acuerdo, RGPD), herramientas,
+   modelo obsoleto etiquetado, pliego del anexo, registro de riesgos.
+   Nada de esta carpeta sale del círculo fundador.
+4. Archivo/                      → versiones superadas + índice de versiones.
 ```
 
 ## Cómo se lee esto
@@ -29,4 +32,4 @@
 - Expedientes de deal: `3. Interno (no presentar)/Deals/NN-<nombre>/`.
 
 ## Estado del proyecto
-Fase 0 · Escucha (ver dossier §08): concepto redactado y cerrado para presentación; expediente técnico del edificio en apertura; agenda con la propiedad pendiente.
+Fase 0 · Escucha (ver dossier §08 y `3. Interno/Deals/01-Muebles-Sagunto/05_medidor-fase0.md`): bloque P1 y P2 del método entregados — guiones de conversación, mapa de aliados, panel de 30 empresas, kit legal, sistema de marca especificado, traducción CA en borrador. Próximo hito: cerrar asesoría (NDA + marca OEPM **antes** de entregar ningún dossier) y pedir cita con Promoció Econòmica.
